@@ -1,0 +1,2 @@
+# -EatSmart
+A smart daily meal planner app that helps users organize their meals, plan recipes, and manage grocery lists based on their personal dietary preferences and calorie goals.
